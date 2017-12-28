@@ -4,6 +4,6 @@ This project was created with `create-react-app`. This is a basic Sales applicat
 
 1. Clone the main branch or download the zip.
 2. Run `yarn install` to install all the dependencies.
-3. Run 'yarn start' to run the application in development mode.
+3. Run `yarn start` to run the application in development mode.
 4. Happy hacking. Enjoy.
 
